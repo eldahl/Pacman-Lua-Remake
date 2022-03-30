@@ -1,2 +1,2 @@
-# Pacman-Lua-Remake
-Small remake of Pacman i never got around finishing
+# Pacman Lua Remake
+Remake of Pacman I never got around to finishing.
