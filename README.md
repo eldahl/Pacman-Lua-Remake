@@ -1,7 +1,7 @@
 # Pacman Lua Remake
 Remake of Pacman using the Love2D game engine.
 
-Features:
+## Features:
 * Score
 * Cheery, eatable enemies
 * Hitting an enemy results in game over
